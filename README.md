@@ -136,5 +136,5 @@ Johns Hopkins University CSSE COVID-19 Data Repository.
 https://github.com/CSSEGISandData/COVID-19
 
 📬 Author
-Your Name: Arpit
+Name: Arpit
 GitHub: @Arpit2004-UI
